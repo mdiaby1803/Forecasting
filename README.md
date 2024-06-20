@@ -81,3 +81,15 @@ the actual and two predicted values of “retail” (using ARIMA and ARIMAX) fro
 2023 in a graph.
 Hint:
 replace Crude=FC if Crude==.
+
+
+## License
+
+This project is licensed under a custom license. See the [LICENSE](LICENSE) file for details.
+
+## Copyright
+
+© 2024 Meman Diaby. All rights reserved.
+
+Permission is granted for non-commercial use and replication with proper citation.
+
