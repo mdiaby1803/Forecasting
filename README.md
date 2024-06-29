@@ -102,9 +102,9 @@ Estimate an ARIMAX(3,1,0) model without a constant term but with additional cova
 2. Show the actual and two predicted values of “retail” (using ARIMA and ARIMAX) from July 2023 in a graph.
 
 
----
+## License
 
-© 2024 Meman Diaby. All rights reserved.
+This project is licensed under a custom license. See the [LICENSE](LICENSE) file for details.
 
 ## Copyright
 
